@@ -4,7 +4,6 @@
 
 ## 📬 Contact
 
-For permissions or commercial licensing, contact:
 
 - GitHub: [@noqx](https://github.com/noqx78)  
 - Discord: `noqx` *(optional)*
